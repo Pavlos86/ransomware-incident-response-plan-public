@@ -1,0 +1,1 @@
+# ransomware-incident-response-plan-public
